@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me 👋
 
 <!--
 **vjanz/vjanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Contact
+
+You can find me on:
+* [Linkedin](https://www.linkedin.com/in/valon-januzaj-b02692187/)
+* [Email](mailto:valon.januzaj98@gmail.com)
+
+
