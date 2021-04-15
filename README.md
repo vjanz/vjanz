@@ -13,8 +13,8 @@ Always trying to apply the concepts and the experience from Computer science in 
 ](https://levelup.gitconnected.com/deploy-a-dockerized-fastapi-application-to-aws-cc757830ba1b) 
 
 
-Do you want to collaborate? - If so don't hesitate to contact me <br/>
- :point_down:
+:point_down: Do you want to collaborate? - If so don't hesitate to contact me 
+
 
 
 ### Contact 📫
