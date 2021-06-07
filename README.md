@@ -16,8 +16,7 @@ Always trying to apply the concepts and the experience from Computer science in 
 ### 🚀 Projects
 - [Flask Serverless Template](https://github.com/vjanz/flask-serverless-template)
 
-
-
+<hr/>
 :point_down: Do you want to collaborate? - If so don't hesitate to contact me 
 
 
