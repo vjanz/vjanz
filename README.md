@@ -20,7 +20,6 @@ Always trying to apply the concepts and the experience from Computer science in 
 :point_down: Do you want to collaborate? - If so don't hesitate to contact me 
 
 
-
 ### Contact 📫
 You can find me on:
 * [Linkedin](https://www.linkedin.com/in/valon-januzaj-b02692187/)
