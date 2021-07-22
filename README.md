@@ -13,8 +13,9 @@ Always trying to apply the concepts and the experience from Computer science in 
 ](https://levelup.gitconnected.com/deploy-a-dockerized-fastapi-application-to-aws-cc757830ba1b) 
 - [Implement API Caching with Redis, Flask and Docker [Step-By-Step]
 ](https://valonjanuzaj.medium.com/implement-api-caching-with-redis-flask-and-docker-step-by-step-9139636cef24)
-### 🚀 Projects
-- [Flask Serverless Template](https://github.com/vjanz/flask-serverless-template)
+### 🚀 Projects from articles and tutorials
+- [Python asynchronous tasks with Celery, RabbitMQ, Docker, Redis](https://github.com/vjanz/python-asynchronous-tasks)
+- [API caching with Python, Flask, Reddit and Docker](https://github.com/vjanz/flask-cache-redis)
 
 <hr/>
 :point_down: Do you want to collaborate? - If so don't hesitate to contact me 
