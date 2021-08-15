@@ -1,4 +1,4 @@
-### About me 👋
+### Hi there, it's Valon 👋
 
 Passionate technophile   skilled in front and back end development for different kind of services.
 Useful knowledge and experience with high level programming by using trending technologies.
