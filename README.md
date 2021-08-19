@@ -26,4 +26,3 @@ You can find me on:
 * [Linkedin](https://www.linkedin.com/in/valon-januzaj-b02692187/)
 * [Email](mailto:valon.januzaj98@gmail.com)
 * [Website](https://valonjanuzaj.me/)
-
