@@ -1,4 +1,4 @@
-### Hi there, it's Valon 👋
+### Hi there, it's Valon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Passionate technophile   skilled in front and back end development for different kind of services.
 Useful knowledge and experience with high level programming by using trending technologies.
