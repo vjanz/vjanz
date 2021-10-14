@@ -15,7 +15,7 @@ Always trying to apply the concepts and the experience from Computer science in 
 ](https://valonjanuzaj.medium.com/implement-api-caching-with-redis-flask-and-docker-step-by-step-9139636cef24)
 ### 🚀 Projects from articles and tutorials
 - [Python asynchronous tasks with Celery, RabbitMQ, Docker, Redis](https://github.com/vjanz/python-asynchronous-tasks)
-- [API caching with Python, Flask, Reddit and Docker](https://github.com/vjanz/flask-cache-redis)
+- [API caching with Python, Flask, Redis and Docker](https://github.com/vjanz/flask-cache-redis)
 
 <hr/>
 :point_down: Do you want to collaborate? - If so don't hesitate to contact me 
