@@ -24,5 +24,7 @@ Always trying to apply the concepts and the experience from Computer science in 
 ### Contact 📫
 You can find me on:
 * [Linkedin](https://www.linkedin.com/in/valon-januzaj-b02692187/)
+* [Medium](https://medium.com/@valonjanuzaj/)
 * [Email](mailto:valon.januzaj98@gmail.com)
 * [Website](https://vjanz.github.io/)
+
