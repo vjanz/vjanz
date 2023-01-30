@@ -8,6 +8,7 @@ Always trying to apply the concepts and the experience from Computer science in 
 
 
 ### 🔎 Around the internet...
+- [From local development to Kubernetes — Cluster, Helm, HTTPS, CI/CD, GitOps, Kustomize, ArgoCD](https://valonjanuzaj.medium.com/from-local-development-to-kubernetes-cluster-helm-https-ci-cd-gitops-kustomize-argocd-3d62448a7533)
 - [Asynchronous tasks in Python with Celery + RabbitMQ + Redis](https://levelup.gitconnected.com/asynchronous-tasks-in-python-with-celery-rabbitmq-redis-480f6e506d76)
 - [Deploy a dockerized FastAPI application to AWS
 ](https://levelup.gitconnected.com/deploy-a-dockerized-fastapi-application-to-aws-cc757830ba1b) 
@@ -16,6 +17,8 @@ Always trying to apply the concepts and the experience from Computer science in 
 ### 🚀 Projects from articles and tutorials
 - [Python asynchronous tasks with Celery, RabbitMQ, Docker, Redis](https://github.com/vjanz/python-asynchronous-tasks)
 - [API caching with Python, Flask, Redis and Docker](https://github.com/vjanz/flask-cache-redis)
+- [Kubernetes demo application](https://github.com/vjanz/kubernetes-demo-app)
+- [Kubernetes demo Gitops repository](https://github.com/vjanz/kubernetes-demo-gitops)
 
 <hr/>
 :point_down: Do you want to collaborate? - If so don't hesitate to contact me 
