@@ -20,6 +20,7 @@ Always trying to apply the concepts and the experience from Computer science in 
 - [API caching with Python, Flask, Redis and Docker](https://github.com/vjanz/flask-cache-redis)
 - [Kubernetes demo application](https://github.com/vjanz/kubernetes-demo-app)
 - [Kubernetes demo Gitops repository](https://github.com/vjanz/kubernetes-demo-gitops)
+- [Hosting Django Static Files](https://github.com/vjanz/django-static-files-s3-cloudfront)
 
 <hr/>
 
