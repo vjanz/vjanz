@@ -15,12 +15,15 @@ Always trying to apply the concepts and the experience from Computer science in 
 - [Implement API Caching with Redis, Flask and Docker [Step-By-Step]
 ](https://valonjanuzaj.medium.com/implement-api-caching-with-redis-flask-and-docker-step-by-step-9139636cef24)
 - [Hosting Django Static Files in AWS using S3 and CloudFront: A Comprehensive Guide](https://medium.com/@valonjanuzaj/hosting-django-static-files-in-aws-using-s3-and-cloudfront-a-comprehensive-guide-2f8f5d0a845c)
+- [Redis vs RabbitMQ for Your Python Celery Workflow: Harnessing Upstash Redis
+](https://medium.com/@valonjanuzaj/redis-vs-rabbitmq-for-your-python-celery-workflow-harnessing-upstash-redis-c3e2835c5f30)
 ### 🚀 Projects from articles and tutorials
 - [Python asynchronous tasks with Celery, RabbitMQ, Docker, Redis](https://github.com/vjanz/python-asynchronous-tasks)
 - [API caching with Python, Flask, Redis and Docker](https://github.com/vjanz/flask-cache-redis)
 - [Kubernetes demo application](https://github.com/vjanz/kubernetes-demo-app)
 - [Kubernetes demo Gitops repository](https://github.com/vjanz/kubernetes-demo-gitops)
 - [Hosting Django Static Files](https://github.com/vjanz/django-static-files-s3-cloudfront)
+- [Redis vs RabbitMQ for Celery](https://github.com/vjanz/celery-redis-upstash)
 
 <hr/>
 
