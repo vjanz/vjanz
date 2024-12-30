@@ -1,10 +1,10 @@
 ### Hi there, it's Valon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Passionate technophile   skilled in front and back end development for different kind of services.
-Useful knowledge and experience with high level programming by using trending technologies.
+As a passionate and results-driven Software Engineer, I bring industry experience in building scalable and efficient services across various domains. My expertise spans multiple programming languages, frameworks, and technologies, including Python, Java, and cloud platforms like AWS and GCP. I thrive in dynamic environments and am always eager to explore new areas in tech.
 
-Currently working mostly with Python to build web-services. I am more focused in back-end technologies but also have useful experience with latest front-end technologies.
-Always trying to apply the concepts and the experience from Computer science in softwares in order to solve specific problems and make life easier.
+Beyond back-end development, I have extensive experience managing and optimizing the entire software development lifecycle (SDLC), ensuring streamlined processes from design to deployment.
+
+I am particularly enthusiastic about DevOps practices and the latest advancements in automation and cloud-native technologies. I have hands-on experience with tools like Docker, Kubernetes, GitOps, ArgoCD, Terraform, CI/CD, and am well-versed in managing cloud infrastructure using AWS and GCP.
 
 
 ### 🔎 Around the internet...
